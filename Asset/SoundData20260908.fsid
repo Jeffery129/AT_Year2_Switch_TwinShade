@@ -1,0 +1,48 @@
+﻿// SoundIDs
+static const unsigned int BGM_Title = 0x01000000;
+static const unsigned int BGM_Select = 0x01000001;
+static const unsigned int BGM_Castle = 0x01000002;
+static const unsigned int BGM_Corridor = 0x01000003;
+static const unsigned int BGM_Light_Cave = 0x01000004;
+static const unsigned int BGM_Boss = 0x01000005;
+static const unsigned int UI_Title_Start = 0x01000006;
+static const unsigned int UI_Tab_Switch = 0x01000007;
+static const unsigned int UI_Stage_Option_Change = 0x01000008;
+static const unsigned int UI_Stage_Change = 0x01000009;
+static const unsigned int UI_Open_Menu = 0x0100000A;
+static const unsigned int UI_Close_Menu = 0x0100000B;
+static const unsigned int SE_Player_Hit = 0x0100000C;
+static const unsigned int SE_Player_Dead = 0x0100000D;
+static const unsigned int SE_Player_Jump = 0x0100000E;
+static const unsigned int SE_Player_Switch_Color = 0x0100000F;
+static const unsigned int SE_Player_Dash = 0x01000010;
+static const unsigned int SE_Player_Charged = 0x01000011;
+static const unsigned int SE_Normal_Shoot = 0x01000012;
+static const unsigned int SE_Charge_Shoot = 0x01000013;
+static const unsigned int SE_Normal_Hit = 0x01000014;
+static const unsigned int SE_Charge_Hit = 0x01000015;
+static const unsigned int SE_Boss_Thunder_01 = 0x01000016;
+static const unsigned int SE_Boss_Thunder_02 = 0x01000017;
+static const unsigned int SE_Boss_Thunder_03 = 0x01000018;
+static const unsigned int SE_Boss_Thunder_04 = 0x01000019;
+static const unsigned int SE_Boss_Roar = 0x0100001A;
+static const unsigned int SE_Portal_Next_Stage = 0x0100001B;
+static const unsigned int SE_Game_Clear = 0x0100001C;
+static const unsigned int SE_Boss_Explosion_1 = 0x0100001D;
+static const unsigned int SE_Boss_Explosion_2 = 0x0100001E;
+static const unsigned int SE_Boss_Explosion_3 = 0x0100001F;
+
+// SoundGroupIDs
+// WaveSoundSetIDs
+static const unsigned int WSDSET_0 = 0x02000000;
+// SequenceSoundSetIDs
+
+// BankIDs
+
+// PlayerIDs
+static const unsigned int BGM = 0x04000000;
+static const unsigned int SE = 0x04000001;
+
+// WaveArchiveIDs
+
+// GroupIDs
